@@ -6,7 +6,7 @@ app.use(cors());
 app.use(express.json());
 
 app.post("/chat", (req, res) => {
-    const msg = req.body.message.toLowerCase();
+    const msg = (req.body.message || "").toLowerCase();
 
     let reply = "Ask me about elections 😊 Try: registration, voting, documents, EVMs, or election process!";
 

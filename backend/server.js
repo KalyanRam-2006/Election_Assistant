@@ -29,4 +29,5 @@ app.post("/chat", (req, res) => {
     res.json({ reply });
 });
 
-app.listen(5000, () => console.log("Server running on port 5000"));
+const PORT = process.env.PORT || 8080;
+app.listen(PORT, "0.0.0.0", () => console.log(`Server running on port ${PORT}`));

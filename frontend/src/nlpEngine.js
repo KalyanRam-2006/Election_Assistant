@@ -1,5 +1,5 @@
 // nlpEngine.js
-// A lightweight, purely local intent-matching engine for the Election Assistant (English/Hindi).
+// A lightweight, purely local intent-matching engine for CivicPulse AI (English/Hindi).
 
 import electionData from './electionData';
 
@@ -105,7 +105,7 @@ const responses = {
     suggestions: ["How to use this site?", "EVM info"]
   },
   navigation: {
-    text: "🧭 **How to use this Election Assistant:**\n\n💬 AI Chat: Ask me questions.\n📅 Timeline: View election stage.\n📍 Booth Locator: Find official CEO portals.",
+    text: "🧭 **How to use CivicPulse AI:**\n\n💬 AI Chat: Ask me questions.\n📅 Timeline: View election stage.\n📍 Booth Locator: Find official CEO portals.",
     suggestions: ["How to register?", "Find my booth"]
   },
   nri_voting: {
@@ -117,7 +117,7 @@ const responses = {
     suggestions: ["How to register?", "Find my booth"]
   },
   greeting: {
-    text: "Hello! 👋 I am your local Election Assistant. Ask me about voter registration, EVMs, or finding your booth!",
+    text: "Hello! 👋 I am CivicPulse AI. Ask me about voter registration, EVMs, or finding your booth!",
     suggestions: ["How to register?", "Voting process", "Find my booth"]
   },
   general_election: {

@@ -11,7 +11,7 @@ import { VotingDemo } from "./VotingDemo";
 export default function App() {
   const [messages, setMessages] = useState([
     {
-      text: "Hi! I'm your Election Assistant 🗳️ Ask me anything about Indian elections — voter registration, documents, polling booths, EVMs, and more!",
+      text: "Hi! I'm CivicPulse AI 🗳️ Ask me anything about Indian elections — voter registration, documents, polling booths, EVMs, and more!",
       sender: "bot",
       time: new Date(),
       suggestions: ["How to register?", "Voting process", "Find my booth", "What is EVM?"],

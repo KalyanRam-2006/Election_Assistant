@@ -34,13 +34,6 @@ Follow these instructions to get a copy of the project up and running on your lo
    cd Election_Assistant
    ```
 
-2. **Start Backend Server:**
-   ```bash
-   cd backend
-   npm install
-   node server.js
-   ```
-
 3. **Start Frontend Application:**
    Open a new terminal window:
    ```bash

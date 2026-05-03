@@ -1,5 +1,5 @@
 ---
-name: Intelligent Election Assistant
+name: CivicPulse AI
 colors:
   surface: '#0b1326'
   surface-dim: '#0b1326'
@@ -99,7 +99,7 @@ spacing:
 ---
 
 ## Brand & Style
-The design system is centered on the concept of "Clarity through Depth." Designed for an Intelligent Election Assistant, the aesthetic balances the gravity of democratic participation with the cutting-edge intelligence of AI. The brand personality is authoritative yet accessible, sophisticated yet transparent. 
+The design system is centered on the concept of "Clarity through Depth." Designed for CivicPulse AI, the aesthetic balances the gravity of democratic participation with the cutting-edge intelligence of AI. The brand personality is authoritative yet accessible, sophisticated yet transparent. 
 
 The design system utilizes **Glassmorphism 2.0**, moving beyond simple transparency into a refined multi-layered experience. By using frosted surfaces, vibrant background "auras," and precise light-refracting borders, the interface feels like a physical object made of light and crystalline materials. This evokes a sense of modernism and "clean data," helping users navigate complex civic information without feeling overwhelmed.
 

@@ -1,4 +1,4 @@
-# 🗳️ Intelligent Election Assistant
+# 🗳️ CivicPulse AI
 
 An advanced, comprehensive platform designed to streamline the electoral process, educate voters, and provide real-time assistance. This project serves as an all-in-one companion for citizens, empowering them with an intelligent chatbot, guided voter journeys, and immersive voting simulations.
 
